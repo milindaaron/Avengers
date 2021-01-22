@@ -1,0 +1,16 @@
+#start{
+    width: 90%;
+    height: 70%;
+}
+body{
+    text-align: center;
+    background-color: greenyellow;
+}
+img{
+    width: 22%;
+    height: 20%;
+}
+#startdiv{
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
